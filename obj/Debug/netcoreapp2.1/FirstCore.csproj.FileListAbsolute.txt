@@ -1,0 +1,11 @@
+E:\MyApp\MyVS Proj\FirstCore\bin\Debug\netcoreapp2.1\FirstCore.deps.json
+E:\MyApp\MyVS Proj\FirstCore\bin\Debug\netcoreapp2.1\FirstCore.runtimeconfig.json
+E:\MyApp\MyVS Proj\FirstCore\bin\Debug\netcoreapp2.1\FirstCore.runtimeconfig.dev.json
+E:\MyApp\MyVS Proj\FirstCore\bin\Debug\netcoreapp2.1\FirstCore.dll
+E:\MyApp\MyVS Proj\FirstCore\bin\Debug\netcoreapp2.1\FirstCore.pdb
+E:\MyApp\MyVS Proj\FirstCore\obj\Debug\netcoreapp2.1\FirstCore.csprojAssemblyReference.cache
+E:\MyApp\MyVS Proj\FirstCore\obj\Debug\netcoreapp2.1\FirstCore.csproj.CoreCompileInputs.cache
+E:\MyApp\MyVS Proj\FirstCore\obj\Debug\netcoreapp2.1\FirstCore.AssemblyInfoInputs.cache
+E:\MyApp\MyVS Proj\FirstCore\obj\Debug\netcoreapp2.1\FirstCore.AssemblyInfo.cs
+E:\MyApp\MyVS Proj\FirstCore\obj\Debug\netcoreapp2.1\FirstCore.dll
+E:\MyApp\MyVS Proj\FirstCore\obj\Debug\netcoreapp2.1\FirstCore.pdb
